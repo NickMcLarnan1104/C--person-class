@@ -1,0 +1,15 @@
+C:\Users\nmcla\OneDrive\Desktop\C#\mclarnan_nick_exam2\mclarnan_nick_exam2\bin\Debug\net6.0\mclarnan_nick_exam2.exe
+C:\Users\nmcla\OneDrive\Desktop\C#\mclarnan_nick_exam2\mclarnan_nick_exam2\bin\Debug\net6.0\mclarnan_nick_exam2.deps.json
+C:\Users\nmcla\OneDrive\Desktop\C#\mclarnan_nick_exam2\mclarnan_nick_exam2\bin\Debug\net6.0\mclarnan_nick_exam2.runtimeconfig.json
+C:\Users\nmcla\OneDrive\Desktop\C#\mclarnan_nick_exam2\mclarnan_nick_exam2\bin\Debug\net6.0\mclarnan_nick_exam2.dll
+C:\Users\nmcla\OneDrive\Desktop\C#\mclarnan_nick_exam2\mclarnan_nick_exam2\bin\Debug\net6.0\mclarnan_nick_exam2.pdb
+C:\Users\nmcla\OneDrive\Desktop\C#\mclarnan_nick_exam2\mclarnan_nick_exam2\obj\Debug\net6.0\mclarnan_nick_exam2.csproj.AssemblyReference.cache
+C:\Users\nmcla\OneDrive\Desktop\C#\mclarnan_nick_exam2\mclarnan_nick_exam2\obj\Debug\net6.0\mclarnan_nick_exam2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmcla\OneDrive\Desktop\C#\mclarnan_nick_exam2\mclarnan_nick_exam2\obj\Debug\net6.0\mclarnan_nick_exam2.AssemblyInfoInputs.cache
+C:\Users\nmcla\OneDrive\Desktop\C#\mclarnan_nick_exam2\mclarnan_nick_exam2\obj\Debug\net6.0\mclarnan_nick_exam2.AssemblyInfo.cs
+C:\Users\nmcla\OneDrive\Desktop\C#\mclarnan_nick_exam2\mclarnan_nick_exam2\obj\Debug\net6.0\mclarnan_nick_exam2.csproj.CoreCompileInputs.cache
+C:\Users\nmcla\OneDrive\Desktop\C#\mclarnan_nick_exam2\mclarnan_nick_exam2\obj\Debug\net6.0\mclarnan_nick_exam2.dll
+C:\Users\nmcla\OneDrive\Desktop\C#\mclarnan_nick_exam2\mclarnan_nick_exam2\obj\Debug\net6.0\refint\mclarnan_nick_exam2.dll
+C:\Users\nmcla\OneDrive\Desktop\C#\mclarnan_nick_exam2\mclarnan_nick_exam2\obj\Debug\net6.0\mclarnan_nick_exam2.pdb
+C:\Users\nmcla\OneDrive\Desktop\C#\mclarnan_nick_exam2\mclarnan_nick_exam2\obj\Debug\net6.0\mclarnan_nick_exam2.genruntimeconfig.cache
+C:\Users\nmcla\OneDrive\Desktop\C#\mclarnan_nick_exam2\mclarnan_nick_exam2\obj\Debug\net6.0\ref\mclarnan_nick_exam2.dll
